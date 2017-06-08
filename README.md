@@ -10,6 +10,7 @@ Database: MySQL
 Tools: Maven
 
 ------------------------------------------ How It works------------------------------------------
+
 Configuration:
 As we know in in the maven project there is a POM file that contains the library that required for the project. In my pom.xml file I provide all the dependency library of Spring, Hibernate, mysql.
 
